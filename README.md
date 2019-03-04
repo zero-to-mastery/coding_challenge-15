@@ -39,7 +39,7 @@ You can see how badly the website performs right now:
 
 ## The Rules Are:
 
-1. Using the template and api provided, try to get the performance of the website to above 90% on Lighthouse and an overall faster Load Time on the website. The faste the better.
+1. Using the template (frontend) and api provided, try to get the performance of the website to above 90% on Lighthouse and an overall faster Load Time on the website. The faster the better.
 
 2. **You have until March 31th at 11:59pm EST** to submit your solution file (using Github. If you don't know how to do that, check out the lecture in the Git + Github section of the course). You will have to submit the link to the #coding-challenge Discord channel with the following message: "-challenge URL LINK TO YOUR ENTRY"
 The bot will listen for the command and will submit the link you provided in the command. Please check that the bot responded with "Thanks for submitting your coding challenge entry!" and then double check the details it provides. We will compile all submissions here at the end of the month.
