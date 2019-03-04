@@ -1,7 +1,7 @@
 # coding_challenge-15
 ![](https://img.shields.io/badge/Difficulty:%20%20%20-%20%20%20NOVICE-orange.svg?style=for-the-badge)
-![](https://img.shields.io/badge/Powered%20by:%20%20%20-%20%20%20REACT-blue.svg?style=for-the-badge&logo=REACT)
-![](https://img.shields.io/badge/Working%20With:%20%20%20-%20%20%20API's-yellow.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Powered%20by:%20%20%20-%20%20%20Javascript-yellow.svg?style=for-the-badge&logo=JAVASCRIPT)
+![](https://img.shields.io/badge/Working%20With:%20%20%20-%20%20%20API's-pink.svg?style=for-the-badge)
 
 This coding challenge is all about simulating a real life work task that you will most likely encounter in your career.
 
